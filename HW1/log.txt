@@ -1,0 +1,60 @@
+User Info
+ashish:x:1000:1000:Ashish,,,:/home/ashish:/bin/bash
+OS Type/Brand
+GNU/Linux
+OS Distribution:
+Ubuntu
+OS version:
+18.04
+Kernel Version, build and build time:
+Linux version 4.15.0-43-generic (buildd@lgw01-amd64-001) (gcc version 7.3.0 (Ubuntu 7.3.0-16ubuntu3)) #46-Ubuntu SMP Thu Dec 6 14:45:28 UTC 2018
+System Architecture info:
+Architecture:        x86_64
+CPU op-mode(s):      32-bit, 64-bit
+Byte Order:          Little Endian
+CPU(s):              1
+On-line CPU(s) list: 0
+Thread(s) per core:  1
+Core(s) per socket:  1
+Socket(s):           1
+NUMA node(s):        1
+Vendor ID:           GenuineIntel
+CPU family:          6
+Model:               142
+Model name:          Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz
+Stepping:            9
+CPU MHz:             2903.998
+BogoMIPS:            5807.99
+Hypervisor vendor:   KVM
+Virtualization type: full
+L1d cache:           32K
+L1i cache:           32K
+L2 cache:            256K
+L3 cache:            4096K
+NUMA node0 CPU(s):   0
+Flags:               fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid pni pclmulqdq monitor ssse3 cx16 pcid sse4_1 sse4_2 x2apic movbe popcnt aes xsave avx rdrand hypervisor lahf_lm abm 3dnowprefetch invpcid_single pti fsgsbase avx2 invpcid rdseed clflushopt flush_l1d
+Info on File System Memory
+Filesystem      Size  Used Avail Use% Mounted on
+udev            2.9G     0  2.9G   0% /dev
+tmpfs           597M  1.3M  595M   1% /run
+/dev/sda1        98G   12G   82G  13% /
+tmpfs           3.0G     0  3.0G   0% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+tmpfs           3.0G     0  3.0G   0% /sys/fs/cgroup
+/dev/loop0       87M   87M     0 100% /snap/core/4917
+/dev/loop1       15M   15M     0 100% /snap/gnome-logs/37
+/dev/loop4       35M   35M     0 100% /snap/gtk-common-themes/319
+/dev/loop2      2.4M  2.4M     0 100% /snap/gnome-calculator/180
+/dev/loop3       90M   90M     0 100% /snap/core/6130
+/dev/loop5       13M   13M     0 100% /snap/gnome-characters/103
+/dev/loop6      141M  141M     0 100% /snap/gnome-3-26-1604/70
+/dev/loop7       35M   35M     0 100% /snap/gtk-common-themes/818
+/dev/loop8      141M  141M     0 100% /snap/gnome-3-26-1604/74
+/dev/loop9      2.3M  2.3M     0 100% /snap/gnome-calculator/260
+/dev/loop10      13M   13M     0 100% /snap/gnome-characters/139
+/dev/loop11      15M   15M     0 100% /snap/gnome-logs/45
+/dev/loop12     3.8M  3.8M     0 100% /snap/gnome-system-monitor/57
+/dev/loop13     3.8M  3.8M     0 100% /snap/gnome-system-monitor/51
+APES_VM_Shared  465G  240G  226G  52% /media/sf_APES_VM_Shared
+tmpfs           597M   44K  597M   1% /run/user/1000
+/dev/sr0         56M   56M     0 100% /media/ashish/VBox_GAs_5.2.24
