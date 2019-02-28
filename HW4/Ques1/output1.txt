@@ -1,0 +1,235 @@
+Character Processing thread started, PID 32618 TID 32619
+Start Time for Character Processing Thread: sec=6031, nanosec=271631552
+Character Processing thread terminating by completion
+B:55
+F:85
+K:20
+Q:8
+V:25
+W:55
+X:23
+Y:44
+Z:4
+End Time for Character Processing Thread: sec=6031, nanosec=294439010
+CPU Utilization thread started, PID 32618 TID 32620
+Start Time for CPU Utilization Thread: sec=6031, nanosec=267714135
+CPU Utilization: cpu  38840 0 216415 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38842 0 216423 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38844 0 216431 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38848 0 216437 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38851 0 216444 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38853 0 216452 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38857 0 216458 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38858 0 216467 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38859 0 216476 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38861 0 216484 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38863 0 216492 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38863 0 216502 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38864 0 216511 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38866 0 216519 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38867 0 216528 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38868 0 216537 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38869 0 216546 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38871 0 216554 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38872 0 216563 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38874 0 216571 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38877 0 216578 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38879 0 216586 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38879 0 216596 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38880 0 216605 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38881 0 216614 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38884 0 216621 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38885 0 216630 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38886 0 216639 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38888 0 216647 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38889 0 216656 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38894 0 216661 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38895 0 216670 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38895 0 216680 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38896 0 216689 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38899 0 216696 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38901 0 216704 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38901 0 216714 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38903 0 216722 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38907 0 216728 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38909 0 216736 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38911 0 216744 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38912 0 216753 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38913 0 216762 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38915 0 216770 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38916 0 216779 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38918 0 216787 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38919 0 216796 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38919 0 216806 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38923 0 216812 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38924 0 216821 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38925 0 216830 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38928 0 216837 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38928 0 216847 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38934 0 216851 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38936 0 216859 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38937 0 216868 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38941 0 216874 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38944 0 216881 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38946 0 216889 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38951 0 216894 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38953 0 216902 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38955 0 216910 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38958 0 216917 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38961 0 216924 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38964 0 216931 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38966 0 216939 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38969 0 216946 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38969 0 216956 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38969 0 216966 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38973 0 216973 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38975 0 216980 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38975 0 216991 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38976 0 216999 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38977 0 217008 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38978 0 217017 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38980 0 217025 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38981 0 217034 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38982 0 217043 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38982 0 217053 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38984 0 217061 346287 324 0 219 0 0 0
+
+CPU Utilization: cpu  38986 0 217068 346287 324 0 220 0 0 0
+
+CPU Utilization: cpu  38989 0 217075 346287 324 0 220 0 0 0
+
+CPU Utilization: cpu  38990 0 217084 346287 324 0 220 0 0 0
+
+CPU Utilization: cpu  38991 0 217093 346287 324 0 220 0 0 0
+
+CPU Utilization: cpu  38991 0 217103 346287 324 0 220 0 0 0
+
+CPU Utilization: cpu  38993 0 217111 346287 324 0 220 0 0 0
+
+CPU Utilization: cpu  38995 0 217119 346287 324 0 220 0 0 0
+
+CPU Utilization: cpu  38996 0 217128 346287 324 0 220 0 0 0
+
+CPU Utilization: cpu  38998 0 217136 346287 324 0 220 0 0 0
+
+CPU Utilization: cpu  38999 0 217145 346287 324 0 220 0 0 0
+
+CPU Utilization: cpu  38999 0 217155 346287 324 0 220 0 0 0
+
+CPU Utilization: cpu  39000 0 217164 346287 324 0 220 0 0 0
+
+CPU Utilization: cpu  39002 0 217172 346287 324 0 220 0 0 0
+
+CPU Utilization: cpu  39004 0 217180 346287 324 0 220 0 0 0
+
+CPU Utilization: cpu  39006 0 217188 346287 324 0 220 0 0 0
+
+CPU Utilization: cpu  39009 0 217195 346287 324 0 220 0 0 0
+
+CPU Utilization: cpu  39012 0 217202 346287 324 0 220 0 0 0
+
+CPU Utilization: cpu  39015 0 217209 346287 324 0 220 0 0 0
+
+CPU Utilization: cpu  39015 0 217219 346287 324 0 220 0 0 0
+
+CPU Utilization: cpu  39016 0 217228 346287 324 0 220 0 0 0
+
+CPU Utilization: cpu  39017 0 217238 346287 324 0 220 0 0 0
+
+CPU Utilization: cpu  39018 0 217246 346287 324 0 220 0 0 0
+
+CPU Utilization: cpu  39021 0 217253 346287 324 0 220 0 0 0
+
+CPU Utilization: cpu  39022 0 217262 346287 324 0 220 0 0 0
+
+CPU Utilization: cpu  39024 0 217270 346287 324 0 220 0 0 0
+
+CPU Utilization: cpu  39028 0 217276 346287 324 0 220 0 0 0
+
+CPU Utilization: cpu  39029 0 217285 346287 324 0 220 0 0 0
+
+CPU Utilization: cpu  39029 0 217295 346287 324 0 220 0 0 0
+
+CPU Utilization: cpu  39030 0 217304 346287 324 0 220 0 0 0
+
+CPU utilization thread teminating with SIGUSR1
+End Time for CPU Utilization Thread: sec=6042, nanosec=257997011
