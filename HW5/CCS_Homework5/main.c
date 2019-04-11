@@ -25,22 +25,6 @@
 
 #include <stdbool.h>
 #include <stdint.h>
-//#include <stdio.h>
-//#include <stdlib.h>
-//#include "FreeRTOS.h"
-//#include "inc/hw_memmap.h"
-//#include "inc/hw_types.h"
-//#include "driverlib/gpio.h"
-//#include "driverlib/debug.h"
-//#include "driverlib/pin_map.h"
-//#include "driverlib/rom.h"
-//#include "driverlib/uart.h"
-//#include "driverlib/fpu.h"
-//#include "timers.h"
-//#include "utils/uartstdio.h"
-//#include "task.h"
-//#include "queue.h"
-//#include "semphr.h"
 #include <time.h>
 #include "driverlib/sysctl.h"
 #include "logger.h"
